@@ -1,5 +1,6 @@
 ### Project template
 *.js
+.idea
 
 ### Node template
 # Logs
