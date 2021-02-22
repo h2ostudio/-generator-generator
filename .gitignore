@@ -1,6 +1,7 @@
 ### Project template
 *.js
 .idea
+yarn.lock
 
 ### Node template
 # Logs
