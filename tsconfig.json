@@ -3,6 +3,9 @@
   "compilerOptions": {
     "target": "ES6",
     "module": "CommonJS",
-    "outDir": "dist/"
+    "outDir": "dist/",
+    "rootDirs": [
+      "src"
+    ]
   }
 }

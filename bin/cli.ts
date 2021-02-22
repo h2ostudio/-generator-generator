@@ -1,4 +1,4 @@
-import { Generator } from "./extend/Generator";
+import { Generator } from "../extend/Generator";
 
 class Cli extends Generator {
   constructor() {super();}
